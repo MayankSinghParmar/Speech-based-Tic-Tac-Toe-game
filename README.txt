@@ -1,6 +1,5 @@
 PROJECT NAME: VOICE BASED TIC-TAC-TOE
 BY:	MAYANK SINGH PARMAR(214101027)
-	AMIT PANWAR(214101006)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Direction to run the game.
